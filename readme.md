@@ -8,7 +8,7 @@
 
 Comprehensive business intelligence analysis of 5,000 call center interactions for PWC, featuring interactive Power BI dashboards analyzing operational performance, customer satisfaction, and agent productivity.
 
-**📈 View Live Dashboard:** [https://yourusername.github.io/PWC-Call-Center-Analysis/](https://yourusername.github.io/PWC-Call-Center-Analysis/)
+**📈 View Live Dashboard:** : https://arshiakosha.github.io/PWC_Call_Center_Analysis/
 
 ## 📊 Key Metrics
 
@@ -31,19 +31,18 @@ Comprehensive business intelligence analysis of 5,000 call center interactions f
 ### 2. Topic Performance Analysis
 - Satisfaction vs Duration
 - correlation scatter plot
-
-Average call duration by topic
-Resolution rate comparison across categories
-Topic performance summary table
-Customer satisfaction analysis
+- Average call duration by topic
+- Resolution rate comparison across categories
+- Topic performance summary table
+- Customer satisfaction analysis
 
 3. Agent Performance Scorecard
 
-Individual agent metrics and benchmarks
-Performance comparison charts
-Calls handled distribution
-Satisfaction ratings by agent
-Response time analytics
+- Individual agent metrics and benchmarks
+- Performance comparison charts
+- Calls handled distribution
+- Satisfaction ratings by agent
+- Response time analytics
 
 💡 Key Insights
 ✅ Strengths
